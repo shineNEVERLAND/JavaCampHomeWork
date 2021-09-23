@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b482dc2-c153-4efd-a480-45b4592a0344" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HttpServer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HttpServer02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HttpServer03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaCampHomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaCampHomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/src/main/java/HttpClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/JavaCampHomeWork/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/JavaCampHomeWork/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/JavaCampHomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/JavaCampHomeWork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/net/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/net/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/net/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,16 +22,17 @@
         <counts>
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="19" />
+          <entry key="java" value="20" />
           <entry key="png" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -44,7 +41,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="20" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -100,14 +97,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HttpServer03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="642">
-              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            <state relative-caret-position="64">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/net/src/main/java/netty/NettyHttpServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -183,8 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,16 +196,36 @@
               <item name="JavaCampHomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCampHomeWork" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaCampHomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCampHomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCampHomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCampHomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCampHomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCampHomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632386776699" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1632399227726" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -295,16 +319,18 @@
       <workItem from="1632278528214" duration="67000" />
       <workItem from="1632306085908" duration="6373000" />
       <workItem from="1632382189645" duration="3518000" />
+      <workItem from="1632393709568" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15814000" />
+    <option name="totallyTimeSpent" value="16148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19914803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20127796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -426,6 +452,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/netty/HttpHandler.java" />
     <entry file="file://$PROJECT_DIR$/HelloClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -456,20 +483,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty/HttpHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HttpServer03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        <state relative-caret-position="64">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/net/src/main/java/netty/NettyHttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
