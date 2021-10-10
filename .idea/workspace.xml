@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b482dc2-c153-4efd-a480-45b4592a0344" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GCLogAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gc&amp;heap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.xlass.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/.idea/thriftCompiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/net.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/src/main/java/HttpClientTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/src/main/java/OkHttpTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/src/main/java/netty/HttpHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/src/main/java/netty/HttpInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/src/main/java/netty/NettyHttpServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/target/classes/HttpClientTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/target/classes/OkHttpTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/target/classes/netty/HttpHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/target/classes/netty/HttpInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/target/classes/netty/NettyHttpServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/JavaCampHomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/JavaCampHomeWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/JavaCampHomeWork/HttpServer03.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/JavaCampHomeWork/HttpServer03.class" afterDir="false" />
-    </list>
+    <list default="true" id="2b482dc2-c153-4efd-a480-45b4592a0344" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="187">
               <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HttpServer01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="391">
               <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HttpServer02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
+            <state relative-caret-position="1258">
               <caret line="74" column="110" selection-start-line="74" selection-start-column="110" selection-end-line="74" selection-end-column="110" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -127,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HttpServer03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="102">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -157,8 +132,8 @@
         <entry file="file://$PROJECT_DIR$/gc&amp;heap">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -239,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,7 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -360,10 +335,9 @@
     <option name="totallyTimeSpent" value="19839000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-169" y="-1080" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20553781" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21101573" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -490,7 +464,7 @@
     <entry file="file://$PROJECT_DIR$/net/src/main/java/netty/HttpInitializer.java" />
     <entry file="file://$PROJECT_DIR$/HelloClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="187">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -500,7 +474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HttpServer01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="391">
           <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -510,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HttpServer02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
+        <state relative-caret-position="1258">
           <caret line="74" column="110" selection-start-line="74" selection-start-column="110" selection-end-line="74" selection-end-column="110" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -520,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HttpServer03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -544,8 +518,8 @@
     <entry file="file://$PROJECT_DIR$/gc&amp;heap">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
